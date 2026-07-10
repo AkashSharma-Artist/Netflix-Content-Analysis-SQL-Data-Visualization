@@ -1,6 +1,6 @@
 # Netflix Content Analysis – SQL + Data Visualization
 
-![]()
+![](https://github.com/AkashSharma-Artist/Netflix-Content-Analysis-SQL-Data-Visualization/blob/main/logo.png)
 
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows 
@@ -34,7 +34,7 @@ also converted into visual charts, including:
 - Top 10 actors by number of Indian movie appearances
 - Content categorization (Good vs Bad, based on keyword analysis)
 
-![]()
+![](https://github.com/AkashSharma-Artist/Netflix-Content-Analysis-SQL-Data-Visualization/blob/main/IMG.png)
 
 These visuals complement the raw SQL output, making the analysis easier to 
 present to non-technical stakeholders.
